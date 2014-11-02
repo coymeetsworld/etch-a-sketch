@@ -1,0 +1,29 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #36F;
+}
+
+
+.container {
+	padding-top: 40px;
+	/*padding-bottom: 40px;*/
+	width: 480px;
+	margin: 0 auto;
+}
+
+.row {
+	clear:both;
+}
+
+.cell {
+	float: left;
+	background-color: white;
+	height: 30px;
+	width: 30px;
+}
+
+.hovered {
+	background-color: #777;
+}
